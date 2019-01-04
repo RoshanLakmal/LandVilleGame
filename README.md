@@ -1,5 +1,5 @@
 # LandVilleGame
-'''
+```
 Enter row number of the land:
 -1
 Sample input-output of Assignment 1 COCS2531 Programming Fundamentals
@@ -73,4 +73,4 @@ Enter column of the house:
 000000000
 Choose from the menu: 1. Build a house, 2. Display land 3. Clear the land 4. Quit 4
 Program ends.
-'''
+```
