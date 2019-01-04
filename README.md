@@ -1,4 +1,5 @@
 # LandVilleGame
+###### Sample input-output
 ```
 Enter row number of the land:
 -1
